@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseTesting</string>
+    <string name="token">Token : %s</string>
+    <string name="news">News</string>
+    <string name="promo">Promo</string>
+    <string name="show_token">Show Token</string>
+</resources>
